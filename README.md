@@ -13,7 +13,7 @@ Program wielowątkowy z wykorzystaniem wątków POSIX-owych
 - pełnoekranowe wyświetlanie tekstu przy pomocy biblioteki ncurses,
 - programowanie w języku C w środowisku Linux.
 
-
+Projekty:
 - P01 - problem ucztujących filozofów
 - P02 - symulator serwisu rowerowego gdzie:
 	+ wątki reprezentują np. klientów, serwis czy dostawcę części,
